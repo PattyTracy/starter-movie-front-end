@@ -1,5 +1,4 @@
-const API_BASE_URL = "https://pt-we-love-movies.onrender.com";
-
+const API_BASE_URL = "https://pat-we-love-movies.onrender.com";
 /**
  * Defines the default headers for these functions to work with `json-server`
  */
